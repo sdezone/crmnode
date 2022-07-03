@@ -1,2 +1,2 @@
 # crmnode
-customer relationship management for small size companies.
+The CRM that's target is small size companies.
