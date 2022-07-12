@@ -1,0 +1,23 @@
+{
+  "name": "crmnode",
+  "version": "1.0.0",
+  "description": "crm application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdezone/crmnode.git"
+  },
+  "keywords": [
+    "crm",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdezone/crmnode/issues"
+  },
+  "homepage": "https://github.com/sdezone/crmnode#readme"
+}
